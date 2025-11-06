@@ -1,1 +1,1 @@
-Hello GitLab from Bharathan!
+Hello GitHub from Bharathan!
